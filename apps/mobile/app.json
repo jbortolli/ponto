@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Ponto Cafe",
+    "slug": "ponto-cafe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {"supportsTablet": false},
+    "android": {"package": "com.pontocafe.app"},
+    "plugins": ["expo-camera", "expo-location"]
+  }
+}
